@@ -34,7 +34,22 @@ Pages:
 
 Text font:
 
-Headers font:
+Headers font: Ubuntu?
 
 Color palette
-    search: website color palette generator
+    Mauve #D3B1C2
+    Lavender #C197D2
+    Black (dark purple) #211522
+    Orchid #613459
+
+
+    Forest green #013A20
+    Emerald green #478C5C
+    Seafoam green #B2D2A4
+    Green #2C5E1A
+
+
+    Salmon #4F0000
+    Mauve #D9CED6
+    Charcoal #303437
+    Nude #AE8B70
