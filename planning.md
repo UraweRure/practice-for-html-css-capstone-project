@@ -31,10 +31,30 @@ Pages:
         6 images displayed 3 wide and 2 down
             A label for each image
             Clicking on the image opens the source of that image in a new window
+Fonts
+  <!-- <html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family
+-->
 
-Text font:
+   generic: sans-serif.
 
-Headers font: Ubuntu?
+    Text font:
+        Source Code Pro
+        <!-- https://fonts.googleapis.com/css?family=Source+Code+Pro -->
+
+    Headers fonts:
+        Ubuntu
+        <!-- hrefhttps://fonts.googleapis.com/css?family=Ubuntu -->
+        W/Texture
+           Rubik Distressed
+           <!--https://fonts.googleapis.com/css?family=Rubik+Distressed -->
+
+    Buttons and others:
+        PT Sans Narrow
+        <!-- https://fonts.googleapis.com/css?family=PT+Sans+Narrow -->
 
 Color palette
     Mauve #D3B1C2
