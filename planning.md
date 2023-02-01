@@ -7,18 +7,24 @@ Pages:
             Home
             Survey
         1 header using H1
-        Photografs 2020
+        Photography
         3 sections of text with H2 headers
+        div
         H2 Autor
-        H3 UraweRure
-        p Amateur photographer, fnancial administrator, rancher, philosophy student and now developer
+        H3 Urawerure
+        H4 Carlos Y. Sandoval
+        p Among other things, amateur photographer, financial administrator, rancher, philosophy student and for now community worker and code trainee.
+        div
         H2 Etimology of Photography
         p "From photos (ϕοτοσ), light, and graphos (γραοσ), writing, delineation, or painting Ref1
-        H2 Definition Aesthetics
-        P According to the Britannica encyclopedia: "philosophical study of beauty and taste... We are acquainted with an interesting and puzzling realm of experience: the realm of the beautiful, the ugly, the sublime, and the elegant; of taste, criticism, and fine art; and of contemplation, sensuous enjoyment, and charm. In all these phenomena we believe that similar principles are operative and that similar interests are engaged. If we are mistaken in this impression, we will have to dismiss such ideas as beauty and taste as having only peripheral philosophical interest. Alternatively, if our impression is correct and philosophy corroborates it, we will have discovered the basis for a philosophical aesthetics...."
-        p Go trough all the very interesting discussion of modern aesthetics to make an opinion... in the meantime, as the author does, take advantage of current digital and lenses technology and take thousands of photographs, probabillity will give you very remarkable ones.
+        div
+        H2 Dictionary definition
+        p the art or process of producing images by the action of radiant energy and especially light on a sensitive surface (such as film or an optical sensor) Ref 2
+        div
+        p This author take advantage of current digital and lenses technology and take hundreds of photographs, probabillity gives remarkable ones. XD
+        div
         1 image ApfelStrudel
-            title in memoriam og Apfel Strudel
+            title in memoriam of Apfel Strudel
 
 
     Page 2 Survey
@@ -34,11 +40,13 @@ Pages:
 
     Page 3 References
         Navigation Bar linking to all 4 pages
-        1 header using H1 References used in this website and that the author would like to read to know more about if someday has lot of freetime.
+        1 header using H1 References to know more about photography
         1 ordered or unordered list of links to 5 other websites
-            <!-- https://www.britannica.com/technology/photography
+            <!--
             1 https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100324562
-            2 https://www.britannica.com/topic/aesthetics
+            2 https://www.merriam-webster.com/dictionary/photography
+            https://www.britannica.com/technology/photography
+            https://www.britannica.com/topic/aesthetics
             http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf
             https://www.ijert.org/research/classifying-the-photo-aesthetics-using-heuristic-rules-of-photography-IJERTV3IS061313.pdf
             3 https://www.shutterbug.com/content/lens-effects
