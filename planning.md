@@ -11,8 +11,8 @@ Pages:
         3 sections of text with H2 headers
         div
         H2 Autor
-        H3 Urawerure
-        H4 Carlos Y. Sandoval
+        H3 Carlos Y. Sandoval
+        H4 Urawerure
         p Among other things, amateur photographer, financial administrator, rancher, philosophy student and for now community worker and code trainee.
         div
         H2 Etimology of Photography
@@ -21,28 +21,43 @@ Pages:
         H2 Dictionary definition
         p the art or process of producing images by the action of radiant energy and especially light on a sensitive surface (such as film or an optical sensor) Ref 2
         div
+        H2 Personal tecnique
         p This author take advantage of current digital and lenses technology and take hundreds of photographs, probabillity gives remarkable ones. XD
         div
-        1 image ApfelStrudel
+        1 image ApfelStrudel JPEG
             title in memoriam of Apfel Strudel
+        footer
+        References in this page
+        Creative commoms?
 
 
     Page 2 Survey
         Navigation Bar linking to all 4 pages
         HTML form with a minimum of:
-            1 fieldset
+            1 fieldset?
             3 inputs
                 2 text
-                1 checkbox
-            1 textarea
-            Appropriate labels for the above
-            1 button
+                Name
+                Email
 
-    Page 3 References
+            A lense flare could be:
+                checkboxes
+                    An uggly mistake
+                    An Intentional way to ruin a photograph
+                    An intentional aesthetic effect
+                    Interesting
+
+            1 textarea "Comments"
+
+            Appropriate labels for the above
+
+            1 button Submit
+
+    Page 3 References /* Resources? Check on web examples of more used */
         Navigation Bar linking to all 4 pages
         1 header using H1 References to know more about photography
         1 ordered or unordered list of links to 5 other websites
-            <!--
+<!--
             1 https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100324562
             2 https://www.merriam-webster.com/dictionary/photography
             https://www.britannica.com/technology/photography
@@ -56,9 +71,10 @@ Pages:
         Navigation Bar linking to all 4 pages
         1 header using H1 Lense flares Ref 3
             Intentional ones based in taking ethimology as the definition of photography
-        6 images displayed 3 wide and 2 down
+        6 images displayed 3 wide and 2 down JPEG
             A label for each image
             Clicking on the image opens the source of that image in a new window
+<!--            Add TIFFS for download?-->
 
 Fonts
   <!-- <html>
