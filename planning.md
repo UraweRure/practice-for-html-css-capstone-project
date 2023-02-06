@@ -6,8 +6,12 @@ Pages:
         Navigation Bar linking to all 4 pages
             Home
             Survey
-        1 header using H1
-        Photography
+            References
+            Gallery
+
+        1 header using H1 class header
+        Lense flare
+        H2 Photography class title
         3 sections of text with H2 headers
         div
         H2 Autor
@@ -17,11 +21,11 @@ Pages:
         div
         H2 Etimology of Photography
         p "From photos (ϕοτοσ), light, and graphos (γραοσ), writing, delineation, or painting Ref1
-        div
+
         H2 Dictionary definition
         p the art or process of producing images by the action of radiant energy and especially light on a sensitive surface (such as film or an optical sensor) Ref 2
         div
-        H2 Personal tecnique
+        H2 Personal technique
         p This author take advantage of current digital and lenses technology and take hundreds of photographs, probabillity gives remarkable ones. XD
         div
         1 image ApfelStrudel JPEG
@@ -65,6 +69,7 @@ Pages:
             http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf
             https://www.ijert.org/research/classifying-the-photo-aesthetics-using-heuristic-rules-of-photography-IJERTV3IS061313.pdf
             3 https://www.shutterbug.com/content/lens-effects
+            https://expertphotography.com/lens-flare/
              -->
 
     Page 4 Gallery

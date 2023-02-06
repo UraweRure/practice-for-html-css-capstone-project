@@ -1,7 +1,7 @@
 # practice-for-html-css-capstone-project
 Building first website
 
-Practice on free app academy certification, Web Development Fundamentals, HTML & CSS: Putting It All Together, Capstone Project, HTML and CSS Capstone Project
+Practice from free app academy certification, Web Development Fundamentals, HTML & CSS: Putting It All Together, Capstone Project, HTML and CSS Capstone Project
 
 Building Your First Website
 
