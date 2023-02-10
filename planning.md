@@ -40,16 +40,20 @@ Pages:
         HTML form with a minimum of:
             1 fieldset?
             3 inputs
-                2 text
+
+            I consider a lens flare...:
+                checkboxes
+                    An ugly mistake
+                    An Intentional way to ruin a photograph
+                    A snob practice
+                    An intentional aesthetic effect
+                    Interesting
+                    Funny
+              2 text
                 Name
                 Email
 
-            A lense flare could be:
-                checkboxes
-                    An uggly mistake
-                    An Intentional way to ruin a photograph
-                    An intentional aesthetic effect
-                    Interesting
+
 
             1 textarea "Comments"
 

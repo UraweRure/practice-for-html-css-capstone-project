@@ -1,8 +1,13 @@
 Detailed planing
+1 html survey
+2 layout references
+2 html references
+3 layout gallery
+3 html gallery
 1 organize the graphical elements into classes i.e. H1 Font, font color, size etc...
-3 html navigation bar
-4 css navigation bar
-5 main
-6 footer
-7 References
-8 Creative communs research*  
+2 css navigation bar
+3 css index
+  
+Publishing Via Git Hub
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website
+... Repository name box enter username.github.io
