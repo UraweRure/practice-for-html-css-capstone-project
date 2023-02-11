@@ -37,24 +37,15 @@ Pages:
 
     Page 2 Survey
         Navigation Bar linking to all 4 pages
-        HTML form with a minimum of:
-            1 fieldset?
+        HTML form with a minimum of: <action=* ><method=post or get?>
+            1 fieldset
+                Checkboxes en layout
             3 inputs
 
-            I consider a lens flare...:
-                checkboxes
-                    An ugly mistake
-                    An Intentional way to ruin a photograph
-                    A snob practice
-                    An intentional aesthetic effect
-                    Interesting
-                    Funny
-              2 text
-                Name
-                Email
-
-
-
+                2 text
+                    Name
+                    Email
+                1 date
             1 textarea "Comments"
 
             Appropriate labels for the above
