@@ -1,5 +1,13 @@
-img {
-    max-width: 100%;
+nav {
+
+}
+.galleryImage {
+    max-width: 40%;
+}
+
+.frontPageImage {
+    max-width: 70%;
+    /*max-height: ;*/
 }
 
 /*@media screen and (min-width: 800px) {

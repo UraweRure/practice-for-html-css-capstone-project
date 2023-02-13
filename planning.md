@@ -70,7 +70,6 @@ Pages:
     Page 4 Gallery
         Navigation Bar linking to all 4 pages
         1 header using H1 Lense flares Ref 3
-            Intentional ones based in taking ethimology as the definition of photography
         6 images displayed 3 wide and 2 down JPEG
             A label for each image
             Clicking on the image opens the source of that image in a new window
