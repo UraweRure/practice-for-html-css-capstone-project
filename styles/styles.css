@@ -1,6 +1,57 @@
 nav {
-
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: sticky;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    background-color: #D3B1C2;
+    font-weight: normal;
+    font-size: 2em;
+    font-family: 'ubuntu', sans-serif;
+    color: #4F0000;
 }
+
+header {
+    display: flex;
+    flex-flow: column nowrap;
+    margin: auto;
+    align-items: center;
+    align-content: flex-start;
+    position: static;
+}
+h1 {
+    font-size: 3em;
+    font-family: 'ubuntu', sans-serif;
+    color: #613459;
+}
+
+h2{
+    font-size: 2em;
+    font-weight: lighter;
+    font-family: 'Rubik Distressed', sans-serif;
+    color: #613459;
+}
+
+h3{
+    font-size: 2em;
+    font-family: 'ubuntu', sans-serif;
+    color: #613459;
+}
+
+.mainTitle {
+    font-size: 5em;
+    color: #613459;
+   }
+
+.title {
+    font-size: 3em;
+    font-weight: 500;
+    color: #8d0999;
+}
+
+
+
 .galleryImage {
     max-width: 40%;
 }
