@@ -1,8 +1,11 @@
 Detailed planning
 
 1 organize the graphical elements into classes i.e. H1 Font, font color, size etc...
-2 css navigation bar
 3 css index
+	Reducir espacio entre titulos
+	Agrupar author
+	p
+	img
 4 css survey
 4.1 mdn web forms
 5 css references

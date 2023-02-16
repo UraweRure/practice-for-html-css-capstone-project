@@ -3,11 +3,12 @@ nav {
     flex-direction: row;
     justify-content: space-evenly;
     position: sticky;
+    top: 1px;
     border-top: 5px solid;
     border-bottom: 5px solid;
     background-color: #D3B1C2;
     font-weight: normal;
-    font-size: 2em;
+    font-size: 2vw;
     font-family: 'ubuntu', sans-serif;
     color: #4F0000;
 }
@@ -16,41 +17,73 @@ header {
     display: flex;
     flex-flow: column nowrap;
     margin: auto;
+    justify-content: flex-start;
     align-items: center;
     align-content: flex-start;
     position: static;
 }
 h1 {
-    font-size: 3em;
+    font-size: 3vw;
     font-family: 'ubuntu', sans-serif;
     color: #613459;
 }
 
 h2{
-    font-size: 2em;
+    font-size: 2vw;
     font-weight: lighter;
-    font-family: 'Rubik Distressed', sans-serif;
-    color: #613459;
-}
-
-h3{
-    font-size: 2em;
     font-family: 'ubuntu', sans-serif;
     color: #613459;
 }
 
-.mainTitle {
-    font-size: 5em;
+h3{
+    font-size: 2vw;
+    font-family: 'ubuntu', sans-serif;
     color: #613459;
+}
+
+h4 {
+    font-size: 1vw;
+    font-family: 'ubuntu', sans-serif;
+    color: #613459;
+}
+
+p {
+    font-size: 1vw;
+    font-family: 'Source Code Pro', sans-serif;
+}
+form {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    border: 5px solid #211522;
+}
+
+.mainTitle {
+    font-size: 5vw;
+    color: #613459;
+   /* margin: 10, 0, 20, 20;*/
    }
 
 .title {
-    font-size: 3em;
+    font-size: 3vw;
     font-weight: 500;
+    font-family: 'Rubik Distressed', sans-serif;
     color: #8d0999;
 }
 
+.subtitle {
 
+}
+
+.author {
+    display: flex;
+    flex-flow: column nowrap;
+    margin: auto;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /*position: static;*/
+
+}
 
 .galleryImage {
     max-width: 40%;
@@ -61,6 +94,10 @@ h3{
     /*max-height: ;*/
 }
 
+
 /*@media screen and (min-width: 800px) {
 
-} For bigger screens search in the expample code of the book where it goes*/
+} For bigger screens search in the expample code of the book where it goes
+
+
+*/
