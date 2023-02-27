@@ -1,15 +1,15 @@
 Detailed planning
 
-1 organize the graphical elements into classes i.e. H1 Font, font color, size etc...
-3 css index
-	Reducir espacio entre titulos
+1 css index
 	Agrupar author
 	p
 	img
-4 css survey
+2  css survey
 4.1 mdn web forms
 5 css references
 6 css gallery  
+
+http://validator.w3.org/
 Publishing Via Git Hub
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website
 ... Repository name box enter username.github.io

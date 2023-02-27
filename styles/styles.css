@@ -11,6 +11,7 @@ nav {
     font-size: 2vw;
     font-family: 'ubuntu', sans-serif;
     color: #4F0000;
+    width: 100%;
 }
 
 header {
@@ -48,7 +49,7 @@ h4 {
 }
 
 p {
-    font-size: 1vw;
+    font-size: 1.25vw;
     font-family: 'Source Code Pro', sans-serif;
 }
 form {
@@ -61,7 +62,8 @@ form {
 .mainTitle {
     font-size: 5vw;
     color: #613459;
-   /* margin: 10, 0, 20, 20;*/
+    padding: 0;
+    margin: 0;
    }
 
 .title {
@@ -69,29 +71,70 @@ form {
     font-weight: 500;
     font-family: 'Rubik Distressed', sans-serif;
     color: #8d0999;
+    margin: 10px 0 0 50px;
 }
 
 .subtitle {
-
+    font-size: 2vw;
+    font-weight: bolder;
+    margin: 0;
 }
 
 .author {
     display: flex;
-    flex-flow: column nowrap;
-    margin: auto;
-    justify-content: flex-start;
+    flex-flow: column;
+    margin: 10% 0 10% 0;
+    justify-content: space-around;
     align-items: flex-start;
+    width: 100%;
     /*position: static;*/
-
 }
 
+.photographer{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    margin: 0 1px;
+    width: 100%;
+}
+
+.name, .alias{
+    font-size: 2vw;
+    font-family: 'ubuntu', sans-serif;
+    color: #4F0000;
+}
+
+.bio {
+    margin: 0;
+    width: 100%;
+}
+
+.definitions {
+    display: flex;
+    flex-flow: column;
+    margin: 5% 0 10% 0;
+    width: 100%;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.subtitle2 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.5vw;
+}
+
+.notes {
+    font-size: 0.75vw;
+    align-self: flex-start;
+}
 .galleryImage {
     max-width: 40%;
 }
 
 .frontPageImage {
     max-width: 70%;
-    /*max-height: ;*/
+
 }
 
 
